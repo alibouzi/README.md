@@ -1,5 +1,4 @@
-# IPTV
-<!-- prettier-ignore -->
+
 <table>
   <thead>
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
